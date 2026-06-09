@@ -63,7 +63,7 @@ Built KPI dashboards, pivot analysis, and time-based sales breakdowns using Powe
 If you're a recruiter, hiring manager, or fellow data enthusiast — I'd love to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muskan-aggarwal-013292387/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red)](muskanaggrwal23002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-red)](mailto:muskanaggarwal23002@gmail.com)
 
 ---
 

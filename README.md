@@ -1,7 +1,3 @@
-# Hi, I'm Muskan Aggarwal 👋
-
-### Aspiring Data Analyst | MSc Mathematics | SQL • Excel • Power BI
-
 ---
 
 ## 🙋‍♀️ About Me

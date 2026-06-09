@@ -79,4 +79,4 @@ If you're a recruiter, hiring manager, or fellow data enthusiast — I'd love to
 
 ---
 
-*"I don't just write queries — I answer business questions."* 🚀
+*"I'm not where I want to be yet — but I'm closer than I was yesterday, and that's enough to keep going."* 💪

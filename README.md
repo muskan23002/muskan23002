@@ -2,7 +2,6 @@
 
 ---
 
-## 🙋‍♀️ About Me
 
 I'm a Mathematics graduate who fell in love with data — not just the numbers, but the stories they tell and the decisions they drive.
 

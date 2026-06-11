@@ -45,7 +45,7 @@ Answered 10 real business questions using advanced PostgreSQL — CTEs, Window F
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square)
 ![Marketing](https://img.shields.io/badge/Domain-Marketing%20Analytics-pink?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 ---
 
